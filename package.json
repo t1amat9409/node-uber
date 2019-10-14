@@ -44,9 +44,5 @@
     "sinon": "^3.2.1",
     "sinon-chai": "^2.13.0",
     "superagent": "^3.6.0"
-  },
-  "engines": {
-    "node": ">6.10",
-    "npm": ">3.10.10"
   }
 }
